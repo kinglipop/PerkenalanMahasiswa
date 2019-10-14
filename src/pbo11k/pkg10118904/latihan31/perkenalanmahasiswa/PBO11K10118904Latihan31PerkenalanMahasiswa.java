@@ -8,6 +8,10 @@ package pbo11k.pkg10118904.latihan31.perkenalanmahasiswa;
 /**
  *
  * @author ACER
+ * Nama     : Firman Alfinas
+ * Kelas    : IF 11-K
+ * Nim      : 10118904
+ * Deskripsi Program : Program ini berisi tentang perkenalan mahasiswa
  */
 public class PBO11K10118904Latihan31PerkenalanMahasiswa {
         public static Mahasiswa Mahasiswa = new Mahasiswa();
